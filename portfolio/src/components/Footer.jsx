@@ -6,7 +6,7 @@ function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
 
           <p className="text-slate-400 text-sm tracking-wide">
-            © {new Date().getFullYear()} <span className="text-white font-medium">Vishakharajan</span>. All rights reserved.
+            © {new Date().getFullYear()} <span className="text-white font-medium">Vishakharajan C</span>. 
           </p>
 
           <p className="text-slate-500 text-sm">
